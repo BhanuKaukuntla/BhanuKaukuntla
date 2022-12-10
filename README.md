@@ -4,7 +4,7 @@
 <!-- <h3 align="left">Connect with me:</h3> -->
 <!--  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> -->
 <p align="left">
-  React Webpack Docker github actions Google Cloud Platform TypeScript Insomnia Apollo Heroku redux ReactiveX GraphQL Sass Styled Components git NestJs angular npm html5 Brave browser Rollup d3js Prettier MongoDB Nodejs
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
