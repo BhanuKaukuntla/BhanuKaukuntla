@@ -55,15 +55,6 @@ I'm a Software Engineer.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </div>
 
-<h3>Design</h3>
-
-<div>
-<img src="images/Figma-Dark.svg#gh-light-mode-only" alt="Figma" height="48" />
-<img src="images/Figma-Light.svg#gh-dark-mode-only" alt="Figma" height="48" />
-<img src="images/Inkscape-Dark.svg#gh-light-mode-only" alt="Inkscape" height="48" />
-<img src="images/Inkscape-Light.svg#gh-dark-mode-only" alt="Inkscape" height="48" />
-</div>
-
 </div>
 
 </div>
